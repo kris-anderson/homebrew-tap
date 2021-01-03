@@ -1,8 +1,8 @@
 class Awsprofile < Formula
-  desc "Tool that allows for easier switching and management of AWS profiles"
+  desc "Tool that allows for easy switching and management of AWS CLI profiles"
   homepage "https://github.com/kris-anderson/aws-profile-switcher"
-  url "https://github.com/kris-anderson/aws-profile-switcher/releases/download/v0.2.8/awsprofile.tar.gz"
-  sha256 "15ab7cafb9fb9055a6812f52d821bf95b7b1e69ea3d9d3be8740d1425d06055d"
+  url "https://github.com/kris-anderson/aws-profile-switcher/releases/download/v0.2.12/awsprofile.tar.gz"
+  sha256 "4016c230c9131e248da387a75c72c9f56121d37b8aeb287d451088b081ad79a2"
   license "MIT"
   head "git@github.com:kris-anderson/aws-profile-switcher.git", branch: "main"
 
