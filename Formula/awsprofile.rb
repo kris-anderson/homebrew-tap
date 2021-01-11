@@ -1,10 +1,10 @@
 class Awsprofile < Formula
-  desc "Tool that allows for easy switching and management of AWS CLI profiles"
-  homepage "https://github.com/kris-anderson/aws-profile-switcher"
-  url "https://github.com/kris-anderson/aws-profile-switcher/releases/download/v0.3.4/awsprofile.tar.gz"
-  sha256 "ca63451f80c29650575440d31cbac901fcf05d13e445d79def32fa0fc918ce67"
+  desc "Utility that allows for easy switching and management of AWS CLI profiles"
+  homepage "https://github.com/kris-anderson/awsprofile"
+  url "https://github.com/kris-anderson/awsprofile/releases/download/v0.1.0/awsprofile.tar.gz"
+  sha256 "b9b7b9520612e604bb0938b3054610c86c3c3e840ced9b095c7bde660466ccff"
   license "MIT"
-  head "git@github.com:kris-anderson/aws-profile-switcher.git", branch: "main"
+  head "git@github.com:kris-anderson/awsprofile.git", branch: "main"
 
   def install
     bin.install "awsprofile"
