@@ -9,7 +9,6 @@ brew tap kris-anderson/tap
 ## Available formulas
 
 * awsprofile
-* netperf-enable-demo
 
 ## Install example
 
